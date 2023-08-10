@@ -67,3 +67,8 @@ button:hover {
   transition: all 200ms linear;
   cursor: pointer;
 }
+
+a {
+  text-decoration: none;
+  color: #000;
+}
